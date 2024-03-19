@@ -172,7 +172,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #4aa3df;
+  background: rgb(1, 101, 101);
 }
 
 .navbar .dropdown ul {
@@ -209,6 +209,8 @@ h6 {
 .navbar .dropdown ul li:hover>a {
   color: teal;
 }
+
+
 
 .navbar .dropdown:hover>ul {
   opacity: 1;
@@ -1338,8 +1340,8 @@ section {
 }
 
 .pricing .recommended .btn-buy:hover {
-  background: #2383c4;
-  border-color: #2383c4;
+  background: teal;
+  border-color: teal;
 }
 
 /*--------------------------------------------------------------
@@ -1501,8 +1503,11 @@ section {
   border-radius: 50px;
 }
 
+
+
+
 .contact .php-email-form button[type=submit]:hover {
-  background: #2383c4;
+  background: rgb(1, 99, 99);
 }
 
 @keyframes animate-loading {
